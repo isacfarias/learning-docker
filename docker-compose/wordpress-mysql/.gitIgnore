@@ -1,4 +1,4 @@
 .php
 .js
-/wp-app
-/config
+**/wp-app
+**/config
